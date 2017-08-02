@@ -7,8 +7,6 @@ function preload() {
 	game.load.spritesheet('elements', 'assets/images/elements.png', 16, 10);
 	game.load.spritesheet('shields', 'assets/images/shields.png', 16, 10)
 	game.load.image('background', 'assets/images/space2.png');
-	game.load.image('playerBullet', 'assets/images/playerBullet2.png');
-	game.load.image('invaderBullet', 'assets/images/enemyBullet.png');
 	game.load.image('particle', 'assets/images/particle2.png');
 	game.load.image('particle1', 'assets/images/particle1.png');
 	game.load.spritesheet('playerBoom', 'assets/images/playerParticles.png', 16, 10);
